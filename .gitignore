@@ -1,0 +1,18 @@
+# Local WordPress config and runtime
+wp-config.php
+wp-content/uploads/*
+!wp-content/uploads/.htaccess
+.htaccess
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Debug / cache
+wp-content/debug.log
+wp-content/cache/
+wp-content/upgrade/
