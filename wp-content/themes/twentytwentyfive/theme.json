@@ -9,7 +9,7 @@
 			"defaultPalette": false,
 			"palette": [
 				{
-					"color": "#FFFFFF",
+					"color": "#FF0000",
 					"name": "Base",
 					"slug": "base"
 				},
